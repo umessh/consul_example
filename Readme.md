@@ -1,0 +1,2 @@
+## Consul setup example for developers
+This is an example project to setup HashiCorp Consul and understand its various features. More info on how to use this repo is explained in this blog post [https://umess.me/2021/03/21/learn-with-me-consul-1/](https://umess.me/2021/03/21/learn-with-me-consul-1/)

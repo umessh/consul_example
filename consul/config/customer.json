@@ -1,0 +1,7 @@
+{
+    "service": {
+      "name": "customer",
+      "port": 5000,
+      "address": "<replace_customer_service_container_ip>"
+    }
+}
